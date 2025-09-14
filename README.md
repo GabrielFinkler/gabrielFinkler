@@ -22,7 +22,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcremonese&show_icons=true&theme=dracula)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetos81&show_icons=true&theme=dracula)
 
 ---
 
