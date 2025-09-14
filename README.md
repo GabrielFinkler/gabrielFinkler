@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Como me encontrar
-- UFRGS – cartão nº 341063  
-- (Adicione aqui LinkedIn ou e-mail quando quiser compartilhar)
+- Email - gabrielfcremonese@gmail.com
+-linkedin - www.linkedin.com/in/gabriel-finkler-cremonese-bb341b230
 
 ---
