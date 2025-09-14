@@ -17,7 +17,7 @@
 
 ## 📂 Projetos em destaque
 - [Algoritmos básicos em C](#) – exercícios de faculdade e estudos
-- (em breve) 🚧 Mais projetos e experimentos de aprendizado
+- Algoritmos em Python
 
 ---
 
