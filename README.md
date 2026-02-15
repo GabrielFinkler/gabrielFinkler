@@ -19,11 +19,7 @@
 ## 📂 Projetos em destaque
 - [Algoritmos básicos em C](#) – exercícios de faculdade e estudos
 - Algoritmos em Python
-
----
-
-## 📊 Estatísticas do GitHub
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetos81&show_icons=true&theme=dracula)
+- Estudos
 
 ---
 
