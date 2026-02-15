@@ -1,14 +1,15 @@
 # 👋 Olá, eu sou o Gabriel Finkler Cremonese
 
 🎓 Estudante de engennharia da computação na UFRGS.
-💻 Iniciando na programação e explorando **C, Python, Assembly e fundamentos de arquitetura de computadores  
+💻 Iniciando na programação e explorando **C#, C, Python, Assembly e fundamentos de arquitetura de computadores  
 📚 Interesse em aprender desenvolvimento de software, algoritmos e estruturas de dados  
 ⚡ Também curioso em áreas práticas como tecnologia em geral
 
 ---
 
 ## 🚀 Tecnologias que estou estudando
-- **C** → primeiros algoritmos e programas básicos
+- **C**
+- |**C#** -
 - **Assembly (Ahmes)** → simulador usado em disciplinas de Arquitetura
 - **Python** (iniciando)
 - **Git & GitHub** → para versionamento e portfólio
